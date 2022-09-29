@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="lab5.xslt"?>
+
+<students>
+  <student>
+    <id>1000001</id>
+    <lastName>Jones</lastName>
+    <firstName>Ben</firstName>
+    <dateEnrolled format="d">08/25/2006</dateEnrolled>
+    <major catalogYear="2006">CS:BS</major>
+  </student>
+  
+  <student>
+    <id>1000002</id>
+    <lastName>Chong</lastName>
+    <firstName>Mary</firstName>
+    <dateEnrolled format="D">May 5, 2013</dateEnrolled>
+    <major catalogYear="2009">IT:BS</major>
+  </student>
+  
+  <student>
+    <id>1000003</id>
+    <lastName>Ramirez</lastName>
+    <firstName>Jose</firstName>
+    <dateEnrolled format="d">01/16/2008</dateEnrolled>
+    <major catalogYear="2007">IT:BA</major>
+  </student>
+  
+  <student>
+    <id>1000004</id>
+    <lastName>Okamoto</lastName>
+    <firstName>Sally</firstName>
+    <dateEnrolled format="d">08/25/2004</dateEnrolled>
+    <major catalogYear="2010">CS:BS</major>
+  </student>
+  
+  <student>
+    <id>1000005</id>
+    <lastName>Kahane</lastName>
+    <firstName>Kawika</firstName>
+    <dateEnrolled format="d">08/25/2008</dateEnrolled>
+    <major catalogYear="2011">CS:BS</major>
+  </student>
+</students>
